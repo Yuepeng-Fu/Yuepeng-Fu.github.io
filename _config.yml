@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "selfie.png"
+  name             : "Yuepeng Fu"
   pronouns         : "he/him"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "📚26' Undergrad at Tsinghua University\n😍Machine Learning"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
